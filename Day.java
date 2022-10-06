@@ -3,6 +3,9 @@ package com.common.problem;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * author zhengjg
+ */
 public class Day {
 
     private Date date;
