@@ -12,7 +12,9 @@ public class Day {
      * 日期
      */
     private Date date;
-
+    /**
+     * 日期字符串
+     */
     private String dateStr;
 
     private boolean isTridingDay;
