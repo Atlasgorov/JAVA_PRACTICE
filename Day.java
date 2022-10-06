@@ -17,6 +17,9 @@ public class Day {
      */
     private String dateStr;
 
+    /**
+     * 0，否
+     */
     private boolean isTridingDay;
 
 
