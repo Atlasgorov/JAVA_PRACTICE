@@ -8,6 +8,9 @@ import java.util.Date;
  */
 public class Day {
 
+    /**
+     * 日期
+     */
     private Date date;
 
     private String dateStr;
