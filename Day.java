@@ -13,7 +13,7 @@ public class Day {
      */
     private Date date;
     /**
-     * 日期字符串
+     * 日期字符串，yyyy-MM-dd
      */
     private String dateStr;
 
