@@ -17,6 +17,9 @@ public class Day {
      */
     private String dateStr;
 
+    /**
+     * 是否是工作日标志
+     */
     private boolean isTridingDay;
 
 
