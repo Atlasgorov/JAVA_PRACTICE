@@ -13,12 +13,12 @@ public class Day {
      */
     private Date date;
     /**
-     * 日期字符串，yyyy-MM-dd
+     * 日期字符串
      */
     private String dateStr;
 
     /**
-     * 是否是工作日标志，1：是
+     * 是否是工作日标志，1：是,0，否
      */
     private boolean isTridingDay;
 
